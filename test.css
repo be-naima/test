@@ -1,0 +1,42 @@
+.bg-1{
+    background-color: #ffcd01;
+    height: 600px;
+}
+.headline{
+    padding-top: 60px;
+    color: white;
+    text-align: center;
+    font-size: xx-large;
+    font-family: sans-serif;
+    font-weight: bold;
+    
+}
+.smile{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    color: rgba(0, 0, 0, 0.359);
+    
+}
+.bg-smile{
+    background-color: rgba(128, 128, 128, 0.517);
+    height: 100px;
+    margin: auto 44rem;
+    border-radius: 50%;
+    padding: -20px;
+}
+.bg-2{
+   background-color: rgb(241, 25, 61);
+   height: 200px;
+}
+.triangle {
+	width: 0;
+	height: 0;
+	border-left: 150px solid transparent;
+	border-right: 150px solid transparent;
+	border-top: 80px solid #ffcd01;
+    position: absolute;
+    left: 40%;
+    
+}
