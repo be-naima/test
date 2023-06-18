@@ -22,9 +22,10 @@
 .bg-smile{
     background-color: rgba(128, 128, 128, 0.517);
     height: 100px;
-    margin: auto 44rem;
+    margin: auto ;
     border-radius: 50%;
     padding: -20px;
+    width: 7%;
 }
 .bg-2{
    background-color: rgb(241, 25, 61);
